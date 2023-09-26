@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\bin\Debug\net7.0-windows\Formulir.exe
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\bin\Debug\net7.0-windows\Formulir.deps.json
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\bin\Debug\net7.0-windows\Formulir.runtimeconfig.json
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\bin\Debug\net7.0-windows\Formulir.dll
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\bin\Debug\net7.0-windows\Formulir.pdb
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\obj\Debug\net7.0-windows\Formulir.Form1.resources
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\obj\Debug\net7.0-windows\Formulir.Properties.Resources.resources
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\obj\Debug\net7.0-windows\Formulir.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\obj\Debug\net7.0-windows\Formulir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\obj\Debug\net7.0-windows\Formulir.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\obj\Debug\net7.0-windows\Formulir.AssemblyInfo.cs
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\obj\Debug\net7.0-windows\Formulir.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\obj\Debug\net7.0-windows\Formulir.dll
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\obj\Debug\net7.0-windows\refint\Formulir.dll
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\obj\Debug\net7.0-windows\Formulir.pdb
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\obj\Debug\net7.0-windows\Formulir.genruntimeconfig.cache
+C:\Users\USER\source\repos\Formulir pendaftaran\Formulir\obj\Debug\net7.0-windows\ref\Formulir.dll
